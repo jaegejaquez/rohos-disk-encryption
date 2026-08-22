@@ -1,0 +1,11 @@
+# Default behavior
+# Generated on 2026-11-10
+Cargo.lock linguist-generated
+build/* linguist-vendored
+dist/* linguist-vendored
+
+package-lock.json linguist-generated
+*.htm linguist-vendored
+
+*.rs linguist-detectable
+node_modules/* linguist-vendored
